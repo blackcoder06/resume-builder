@@ -64,7 +64,7 @@ This project is a comprehensive web application that allows users to create and 
 
 ## Getting Started
 
-HOSTING-LINK:https://vishuswastik.github.io/Resume-builder/                         
+HOSTING-LINK: https://blackcoder06.github.io/resume-builder/                      
 
 ### Step-by-Step Guide
 
